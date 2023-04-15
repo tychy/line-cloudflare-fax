@@ -1,0 +1,6 @@
+package main
+const channelAccessToken = ""
+const channelToken = ""
+
+const replyEndpoint = "https://api.line.me/v2/bot/message/reply"
+const contentsEndpoint = "https://api-data.line.me/v2/bot/message/%s/content" // messageid
