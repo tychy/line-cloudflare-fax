@@ -1,0 +1,8 @@
+name = "pocket-fax"
+main = "./js/worker.mjs"
+compatibility_date = "2023-04-15"
+
+[env.production]
+account_id="ca3c701dc8ffc05392728935d9b1300a"
+route="https://api.pocket-fax.com/*"
+
